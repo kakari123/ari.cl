@@ -78,8 +78,8 @@ print  """\x1b[0;31m  \033[1;96m            \x1b[1;93m[¤] \033[0;96mTelegram : 
 \033[1;93m \x1b[1;96m       \x1b[1;93m[¤] \x1b[1;31m⚠barprs nem la har shty ka ruu bda⚠\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠\x1b[1;31m═══════════════════════════⚔"
  
-CorrectUsername = "EWSBO-MVCNJ-IOUJA-HKLID"
-CorrectPassword = "ARI-AHMED-ISMAHIL-xnnx"
+CorrectUsername = "HDSNJ-HALM-KAXD-MMAAI"
+CorrectPassword = "ARI-AHMED-ISMAHIL-CLONER"
  
 loop = 'true'
 while (loop == 'true'):
